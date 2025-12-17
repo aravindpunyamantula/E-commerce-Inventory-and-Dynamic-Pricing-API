@@ -35,7 +35,8 @@ This separation of concerns improves **maintainability**, **testability**, and *
 A high-level architecture diagram illustrating the interaction between the API, database, pricing engine, and background worker is provided here:
 
 
-architecture.png [https://github.com/aravindpunyamantula/E-commerce-Inventory-and-Dynamic-Pricing-API/blob/main/architecture.png]
+[View Architecture Diagram](architecture.png)
+
 
 
 ---
@@ -125,9 +126,9 @@ The database is designed to model real-world e-commerce requirements.
 
 A detailed ERD is provided here:
 
-```
-schema.png
-```
+
+[view schema diagram.](schema.png)
+
 
 ---
 
@@ -214,9 +215,9 @@ This design ensures correctness under concurrent access.
 
 All REST API endpoints are documented separately:
 
-```
-API.md
-```
+
+[view endpoints.](API.md)
+
 
 ---
 
