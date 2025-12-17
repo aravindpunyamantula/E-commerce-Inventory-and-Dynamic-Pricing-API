@@ -34,9 +34,9 @@ This separation of concerns improves **maintainability**, **testability**, and *
 
 A high-level architecture diagram illustrating the interaction between the API, database, pricing engine, and background worker is provided here:
 
-```
-architecture.png
-```
+
+architecture.png [https://github.com/aravindpunyamantula/E-commerce-Inventory-and-Dynamic-Pricing-API/blob/main/architecture.png]
+
 
 ---
 
